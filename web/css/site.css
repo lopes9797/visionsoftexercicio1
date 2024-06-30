@@ -86,3 +86,7 @@ a.desc:after {
 .form-group {
     margin-bottom: 1rem;
 }
+
+.custom-navbar {
+    background-color: #d3d3d3; /* Cinza claro */
+}
